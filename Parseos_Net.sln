@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parseos_Net", "Parseos_Net\Parseos_Net.csproj", "{07BA1F50-B883-4C12-B1C4-0F8160DC5D0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07BA1F50-B883-4C12-B1C4-0F8160DC5D0C}.Debug|x86.ActiveCfg = Debug|x86
+		{07BA1F50-B883-4C12-B1C4-0F8160DC5D0C}.Debug|x86.Build.0 = Debug|x86
+		{07BA1F50-B883-4C12-B1C4-0F8160DC5D0C}.Release|x86.ActiveCfg = Release|x86
+		{07BA1F50-B883-4C12-B1C4-0F8160DC5D0C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA74BD48-321D-4FF5-BF33-F8D9FAF5B8F2}
+	EndGlobalSection
+EndGlobal
